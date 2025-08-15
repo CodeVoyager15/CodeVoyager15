@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## Hi there 👋
+
+👋 Hi, I’m a full stack enginner <br>
+👀 I’m interested in communities <br>
+🌱 I’m currently BUIDLING <br>
+💞️ I’m looking to collaborate on AI <br>
+📫 DM [x.com/thesunllriseup](https://x.com/thesunllriseup) <br>
+
+
 <!--
 **CodeVoyager15/CodeVoyager15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
