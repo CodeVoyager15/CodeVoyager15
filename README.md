@@ -4,7 +4,7 @@
 👀 I’m interested in communities <br>
 🌱 I’m currently BUIDLING <br>
 💞️ I’m looking to collaborate on AI <br>
-📫 DM [x.com/thesunllriseup](https://x.com/thesunllriseup) <br>
+📫 DM [x.com/CodeVoyager15](https://x.com/CodeVoyager15) <br>
 
 
 <!--
